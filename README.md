@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratul Aryan</h1>
-<h3 align="center">A passionate Backend Developer.</h3>
+<!-- <h3 align="center">A passionate Backend Developer.</h3> -->
 <p align="left">
   <img alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" />
 </p>
