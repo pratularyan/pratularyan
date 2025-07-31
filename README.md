@@ -5,11 +5,11 @@
 </p>
 
 
-- 🌱 I’m currently learning **MERN framework with advanced JS**
+- 🌱 I’m currently learning **AI Agents, Advanced Data Analytics, and Model Deployment**
 
-- 👯 I’m looking to collaborate on **projects on Django/MERN, Python development, Machine learning, DSA**
+- 👯 I’m looking to collaborate on **projects on Data Analysis, Machine Learning, Predictive Modeling, and Interactive Dashboards**
 
-- 💬 Ask me about **Python, JS, Django, MERN, DSA**
+- 💬 Ask me about **Python • SQL • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • Streamlit • Power BI • Tableau • Git/GitHub • APIs • Data Cleaning • EDA (Exploratory Data Analysis)**
 
 - 📫 How to reach me **pratularyan@gmail.com**
 
